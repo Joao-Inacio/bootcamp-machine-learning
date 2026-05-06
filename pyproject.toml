@@ -1,0 +1,14 @@
+[project]
+name = "bootcamp-machine-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "mlflow>=1.27.0",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "protobuf==4.25.3",
+    "setuptools>=82.0.1",
+]
